@@ -1,4 +1,7 @@
 test.csv
 train.csv
 result.csv
-Copy of sentimentAnalysis.ipynb
+Advanced.ipynb
+vectoriser-ngram-(1,2).pickle
+lr.pickle
+trial.py
